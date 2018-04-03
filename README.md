@@ -2,7 +2,7 @@
 logic_simulator with c++ using a text file as an input
 
 # text file form
-+ AND A B E //initialize logic gates and its nodes from left to right
++ AND A B E //initialize your logic gates and their nodes from left to right
 + OR B C I
 + XOR C D G
 + XNOR E I Z
